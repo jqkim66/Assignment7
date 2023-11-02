@@ -1,0 +1,18 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+#timeDisplay {
+    font-size: 2em;
+    margin-bottom: 20px;
+    display: block;
+}
+
+button {
+    margin: 5px;
+}
